@@ -1,0 +1,5 @@
+**/__pycache__
+__pycache__
+sentiment/pretrained
+data/**/*.csv
+**/.DS_Store
